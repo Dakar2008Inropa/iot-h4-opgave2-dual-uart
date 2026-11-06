@@ -1,0 +1,10 @@
+build/
+*.elf
+*.hex
+*.o
+*.d
+*.map
+.vscode/
+.idea/
+*.user
+**/.generated/
